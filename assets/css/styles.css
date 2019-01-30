@@ -210,7 +210,7 @@ a.dotted-link:hover {
 
 .latest .item .title {
   font-size: 18px;
-  margin-top: 0;
+  margin-left: 25px;
 }
 
 .latest .item .title .label {
@@ -377,14 +377,14 @@ a.dotted-link:hover {
   font-size: 18px;
 }
 
-.ghfeed {
+.ghfeed_selector {
   height: 500px;
 }
 
-.ghfeed,
-.ghfeed *,
-.ghfeed *:before,
-.ghfeed *:after {
+.ghfeed_selector,
+.ghfeed_selector *,
+.ghfeed_selector*:before,
+.ghfeed_selector *:after {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
